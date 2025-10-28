@@ -1,0 +1,5 @@
+../bme680/sig_sensors.c:12:6:init_bme680	2
+../bme680/sig_sensors.c:66:6:bme_GetGasReference	3
+../bme680/sig_sensors.c:81:9:bme_GetGasScore	3
+../bme680/sig_sensors.c:92:9:bme_GetHumidityScore	4
+../bme680/sig_sensors.c:110:6:bme_calculateIAQ	1

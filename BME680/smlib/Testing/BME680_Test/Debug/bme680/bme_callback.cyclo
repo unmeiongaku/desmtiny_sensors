@@ -1,0 +1,6 @@
+../bme680/bme_callback.c:24:6:bme_global_init	1
+../bme680/bme_callback.c:28:13:bme_callback	3
+../bme680/bme_callback.c:48:13:bme_report_callback	1
+../bme680/bme_callback.c:55:13:bme_proobject_event_dispatcher	2
+../bme680/bme_callback.c:78:6:bme_register_function	3
+../bme680/bme_callback.c:93:6:bme_unregister_function	3

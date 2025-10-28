@@ -1,0 +1,5 @@
+../bme680/bme680_common.c:21:22:user_i2c_write	2
+../bme680/bme680_common.c:27:22:user_i2c_read	2
+../bme680/bme680_common.c:35:6:bme68x_delay_us	1
+../bme680/bme680_common.c:41:6:bme68x_check_rslt	1
+../bme680/bme680_common.c:94:8:bme68x_interface_init	3
